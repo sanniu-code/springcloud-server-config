@@ -1,6 +1,6 @@
 ﻿spring:
   application:
-    name:  one
+    name: server-config
 
 
 
