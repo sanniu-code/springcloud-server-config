@@ -6,12 +6,12 @@
 spring:
   profiles: dev     #开发环境
   application:
-    name: server-config-dev
+    name: jsdjsdhfkjhjksdfh
 ---
 spring:
   profiles: test   #测试环境
   application:
-    name: server-config-test
+    name:  jsdjsdhfkjhjksdfh
   #  请保存为UTF-8格式
 
 
