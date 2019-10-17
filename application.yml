@@ -1,17 +1,20 @@
-spring:
+﻿spring:
   profiles:
     active:
     - dev
+foo: 222222
 ---
 spring:
   profiles: dev     #开发环境
   application: 
     name: server-config-dev
+foo: 222222
 ---
 spring:
   profiles: test   #测试环境
   application: 
     name: server-config--test
+foo: 222222
 #  请保存为UTF-8格式
  
  
